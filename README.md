@@ -1,4 +1,3 @@
-# NLP_PROJECT_UNIBO
 
 - Project_Final.ipynb main notebook
 
